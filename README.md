@@ -7,10 +7,6 @@
 *Update the code for  [ultralytics/yolov5](https://github.com/ultralytics/yolov5) version 6.1.*
 
 
-## Bugs
-
-None
-
 ## Prerequisites
 
 please refer requirements.txt
